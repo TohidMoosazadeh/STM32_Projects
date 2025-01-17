@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\1-GPIO\GPIO_Ex3\EWARM\GPIO_Ex3\Exe\GPIO_Ex3.out</Path>
+            <Output>
+                <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\1-GPIO\GPIO_Ex3\EWARM\GPIO_Ex3\List\GPIO_Ex3.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\GPIO\GPIO_Ex3\EWARM\GPIO_Ex3\Exe\GPIO_Ex3.out</Path>
+            <Output>
+                <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\GPIO\GPIO_Ex3\EWARM\GPIO_Ex3\List\GPIO_Ex3.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>

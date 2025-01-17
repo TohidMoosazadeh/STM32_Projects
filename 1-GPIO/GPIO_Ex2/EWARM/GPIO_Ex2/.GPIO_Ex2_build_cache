@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\1-GPIO\GPIO_Ex2\EWARM\GPIO_Ex2\Exe\GPIO_Ex2.out</Path>
+            <Output>
+                <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\1-GPIO\GPIO_Ex2\EWARM\GPIO_Ex2\List\GPIO_Ex2.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\GPIO\GPIO_Ex2\EWARM\GPIO_Ex2\Exe\GPIO_Ex2.out</Path>
+            <Output>
+                <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\GPIO\GPIO_Ex2\EWARM\GPIO_Ex2\List\GPIO_Ex2.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
