@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\Timers\Timer_Ex5\EWARM\Timer_Ex5\Exe\Timer_Ex5.out</Path>
+            <Output>
+                <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\Timers\Timer_Ex5\EWARM\Timer_Ex5\List\Timer_Ex5.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\3-Timers\Timer_Ex5\EWARM\Timer_Ex5\Exe\Timer_Ex5.out</Path>
+            <Output>
+                <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\3-Timers\Timer_Ex5\EWARM\Timer_Ex5\List\Timer_Ex5.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>

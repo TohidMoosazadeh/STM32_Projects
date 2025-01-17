@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\3-Timers\Timer_Ex4\EWARM\Timer_Ex4\Exe\Timer_Ex4.out</Path>
+            <Output>
+                <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\3-Timers\Timer_Ex4\EWARM\Timer_Ex4\List\Timer_Ex4.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\Timers\Timer_Ex4\EWARM\Timer_Ex4\Exe\Timer_Ex4.out</Path>
+            <Output>
+                <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\Timers\Timer_Ex4\EWARM\Timer_Ex4\List\Timer_Ex4.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
