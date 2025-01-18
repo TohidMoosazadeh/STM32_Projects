@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\5-ADC\ADC_Ex3\EWARM\ADC_Ex3\Exe\ADC_Ex3.out</Path>
+            <Output>
+                <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\5-ADC\ADC_Ex3\EWARM\ADC_Ex3\List\ADC_Ex3.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\ADC\ADC_Ex3\EWARM\ADC_Ex3\Exe\ADC_Ex3.out</Path>
+            <Output>
+                <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\ADC\ADC_Ex3\EWARM\ADC_Ex3\List\ADC_Ex3.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
