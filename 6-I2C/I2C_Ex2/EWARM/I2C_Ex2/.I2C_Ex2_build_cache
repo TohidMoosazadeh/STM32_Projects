@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\6-I2C\I2C_Ex2\EWARM\I2C_Ex2\Exe\I2C_Ex2.out</Path>
+            <Output>
+                <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\6-I2C\I2C_Ex2\EWARM\I2C_Ex2\List\I2C_Ex2.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\I2C\I2C_Ex2\EWARM\I2C_Ex2\Exe\I2C_Ex2.out</Path>
+            <Output>
+                <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\I2C\I2C_Ex2\EWARM\I2C_Ex2\List\I2C_Ex2.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
