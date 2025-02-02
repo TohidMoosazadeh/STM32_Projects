@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\TohidMoosazadeh\Documents\STM32_Workplace\7-SPI\SPI_Ex2\EWARM\SPI_Ex2\Exe\SPI_Ex2.out</Path>
+            <Output>
+                <Path>C:\Users\TohidMoosazadeh\Documents\STM32_Workplace\7-SPI\SPI_Ex2\EWARM\SPI_Ex2\List\SPI_Ex2.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\SPI\SPI_Ex2\EWARM\SPI_Ex2\Exe\SPI_Ex2.out</Path>
+            <Output>
+                <Path>C:\Users\Tohid Moosazadeh\Documents\STM32_Workplace\SPI\SPI_Ex2\EWARM\SPI_Ex2\List\SPI_Ex2.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>

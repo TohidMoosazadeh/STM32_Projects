@@ -1,0 +1,134 @@
+# ninja log v5
+1	532	7552757832119926	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/gpio.o	303c1f20f006475
+452	828	7552757835087986	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_hal_msp.o	f1a0b7c7f797777a
+540	960	7552757836337690	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/usart.o	c7b68c67202734b1
+832	1219	7552757838993311	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/spi.o	7524dd02be3ee93d
+964	1323	7552757840086811	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	3491f24decde28ac
+1223	1984	7552757846647780	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.o	821ad6462f9d91cb
+1327	2087	7552757847585041	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.o	11b9c944c4aa5497
+1988	2502	7552757851802800	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.o	f6ae62d9b16aabab
+2091	2552	7552757852292172	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.o	d0adec61af306d7f
+2506	2909	7552757855865299	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/CMSIS_6603591812247902717.dir/system_stm32f4xx.o	8c692a648b11aa4b
+2913	3219	7552757858899428	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.o	394eeb6cbb6e07c
+2557	3424	7552757861092359	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.o	e2314defe688abd
+3224	3770	7552757864542538	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.o	1be189c5a579fa56
+3427	3915	7552757865955849	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.o	1c92d018fdeb9e4e
+3775	4345	7552757870206581	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.o	1ab48de388475e7a
+3919	4384	7552757870518990	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.o	652ab55c93cbcbd4
+4350	5138	7552757878217452	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.o	fad64a069c264c37
+5143	5483	7552757881660108	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.o	5e1ea7438be60b1c
+5488	5986	7552757886592481	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.o	d8cc690600d59d1e
+5991	6053	7552757887373567	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/EWARM_18443280873093131863.dir/startup_stm32f407xx.o	656e618178650fa1
+4389	6198	7552757888649084	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_spi.o	f766d8e3b24958b2
+6200	6517	7552757891935372	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.o	d7efed351c28bc8
+6521	6879	7552757895540848	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.o	ac4463bfae0ef16b
+6057	7554	7552757902290660	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_uart.o	57f25afbfea72fd1
+3	350	7552758401372230	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/main.o	f678c7c5329ab4f7
+352	578	7552758403715465	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	be0c8dce7ad3a277
+582	601	7552758404184097	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	a6e73e6d070fabfe
+11	616	7552812550905579	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/gpio.o	303c1f20f006475
+4	715	7552812551700121	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/adc.o	76549418ad51dd03
+618	1109	7552812555812173	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	3491f24decde28ac
+719	1240	7552812557061908	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/main.o	f678c7c5329ab4f7
+1113	1525	7552812559887640	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/tim.o	747676b91811b59d
+1244	1621	7552812560831307	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_hal_msp.o	f1a0b7c7f797777a
+1529	1969	7552812564439459	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/spi.o	7524dd02be3ee93d
+1625	2023	7552812564913183	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/usart.o	c7b68c67202734b1
+2027	2481	7552812569462929	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.o	d0adec61af306d7f
+2486	2909	7552812573842744	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/CMSIS_6603591812247902717.dir/system_stm32f4xx.o	8c692a648b11aa4b
+1974	3060	7552812575248306	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_adc.o	9641fc643cdd5cb5
+3064	3543	7552812580090898	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.o	1c92d018fdeb9e4e
+2913	3789	7552812582590739	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.o	821ad6462f9d91cb
+3547	4082	7552812585558718	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.o	f6ae62d9b16aabab
+3794	4619	7552812590869624	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_adc_ex.o	43956eba9a3485e2
+4086	4890	7552812593525650	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.o	11b9c944c4aa5497
+4624	5184	7552812596493746	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.o	1be189c5a579fa56
+4894	5447	7552812599148921	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.o	1ab48de388475e7a
+5451	5801	7552812602741821	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.o	394eeb6cbb6e07c
+5188	6079	7552812605403241	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.o	e2314defe688abd
+5804	6268	7552812607277795	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.o	652ab55c93cbcbd4
+6083	7745	7552812622125203	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_spi.o	f766d8e3b24958b2
+7749	8464	7552812629376884	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.o	fad64a069c264c37
+8468	8858	7552812633288849	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.o	5e1ea7438be60b1c
+8862	9391	7552812638644413	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.o	d8cc690600d59d1e
+6272	9579	7552812640212217	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.o	ac4463bfae0ef16b
+9583	9662	7552812641461977	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_ll_adc.o	f34f1b830365e53a
+9396	11106	7552812655726195	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_uart.o	57f25afbfea72fd1
+9666	11187	7552812656514537	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.o	d7efed351c28bc8
+11191	11411	7552812658701560	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	1242310e807a93e1
+11416	11434	7552812659169764	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	a6e73e6d070fabfe
+11	961	7553421567767341	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/adc.o	76549418ad51dd03
+122	968	7553421567767341	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	3491f24decde28ac
+963	1322	7553421571537707	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/usart.o	c7b68c67202734b1
+1327	2070	7553421578933360	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	1242310e807a93e1
+2074	2159	7553421580189208	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	a6e73e6d070fabfe
+9	570	7553431636531695	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	3491f24decde28ac
+3	663	7553431637312773	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/main.o	f678c7c5329ab4f7
+667	901	7553431639812179	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	1242310e807a93e1
+906	934	7553431640280822	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	a6e73e6d070fabfe
+4	508	7553435517134867	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/main.o	f678c7c5329ab4f7
+510	728	7553435519165669	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	1242310e807a93e1
+733	752	7553435519790506	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	a6e73e6d070fabfe
+2	547	7553440282739804	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	3491f24decde28ac
+549	766	7553440284926800	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	1242310e807a93e1
+770	788	7553440285395439	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	a6e73e6d070fabfe
+3	563	7553474922839449	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	3491f24decde28ac
+9	624	7553474923471793	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/main.o	f678c7c5329ab4f7
+628	848	7553474925862067	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	1242310e807a93e1
+853	879	7553474926330700	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	a6e73e6d070fabfe
+3	366	7553475495368448	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	3491f24decde28ac
+368	609	7553475497607602	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	1242310e807a93e1
+613	637	7553475498151491	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	a6e73e6d070fabfe
+3	365	7553475670125732	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	3491f24decde28ac
+368	568	7553475672157255	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	1242310e807a93e1
+572	590	7553475672469675	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	a6e73e6d070fabfe
+3	545	7553483104991638	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	3491f24decde28ac
+10	594	7553483105460166	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/main.o	f678c7c5329ab4f7
+597	801	7553483107512241	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	1242310e807a93e1
+806	826	7553483107980492	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	a6e73e6d070fabfe
+2	509	7553486518597986	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/main.o	f678c7c5329ab4f7
+511	719	7553486520647264	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	1242310e807a93e1
+724	742	7553486521124177	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	a6e73e6d070fabfe
+4	515	7553555814306994	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/main.o	f678c7c5329ab4f7
+516	941	7553555818524781	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	1242310e807a93e1
+946	1028	7553555819618531	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	a6e73e6d070fabfe
+12	946	7553627857605643	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	3491f24decde28ac
+195	962	7553627857761861	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/main.o	f678c7c5329ab4f7
+965	1218	7553627860430802	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	1242310e807a93e1
+1223	1245	7553627860959232	C:/Users/Tohid Moosazadeh/Documents/STM32_Workplace/SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	a6e73e6d070fabfe
+1	451	7601877739402765	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/gpio.o	a32d0d07483a6229
+6	499	7601877739956978	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/tim.o	a444da3165b4bbcd
+11	559	7601877740567777	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/adc.o	4b4df3c9da260b36
+16	586	7601877740828847	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_hal_msp.o	fbb1d86fa07b6f59
+21	612	7601877741100779	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/main.o	f661df349034f59f
+25	633	7601877741190222	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	402c749c488a86cf
+36	684	7601877741827890	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/CMSIS_6603591812247902717.dir/system_stm32f4xx.o	6e141ee9f8dc4e21
+31	704	7601877741946712	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/spi.o	871a10d63defbfe9
+502	867	7601877743659684	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/usart.o	79af09a3f4093b78
+562	958	7601877744593563	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal.o	4380d82550690be4
+589	1003	7601877745050514	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_cortex.o	d7f5b5d438bf0d1e
+707	1077	7601877745653549	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_exti.o	2c0e5c6def179749
+637	1233	7601877747308163	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma_ex.o	1ba829595bb14aed
+615	1250	7601877747308163	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_dma.o	d503f068d2f2ab37
+453	1291	7601877747786639	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_adc.o	f5839e20c8c0d12
+688	1315	7601877748104761	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_adc_ex.o	f3e3920f834ab7b7
+962	1322	7601877747944935	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr.o	64603aa0565f2dec
+870	1331	7601877748104761	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash.o	f7888c7aac5cba51
+1080	1513	7601877750165303	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ex.o	5653cfc312c26457
+1235	1576	7601877750772984	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_flash_ramfunc.o	d71984fcc280ec70
+1254	1667	7601877750790484	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_pwr_ex.o	bcf5c23cacf6a5a8
+1516	1684	7601877750880875	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_ll_adc.o	b1b48baf2b4e586
+1294	1701	7601877751642301	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc_ex.o	f11e22ef964d92e0
+1008	1705	7601877751464397	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_gpio.o	8a7f7130ff37050d
+1579	1741	7601877752372173	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/EWARM_18443280873093131863.dir/startup_stm32f407xx.o	3bf38c4c9f630035
+1318	1868	7601877753484501	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_rcc.o	d009d0cbc48f348a
+1334	2564	7601877760613698	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_spi.o	2fe265a63484f85f
+1686	2681	7601877761781547	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim_ex.o	5cf304bfc5b603f3
+1670	2756	7601877762536398	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_uart.o	3377bdf61d2b101e
+1326	3463	7601877769553319	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/STM32F4xx_HAL_Driver_1244631019742807970.dir/stm32f4xx_hal_tim.o	ce9d3d312c20d4d3
+3466	3726	7601877772231679	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	ea35573080fff655
+3734	3747	7601877772627383	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	1f6a303adc7a6f83
+11	424	7601989658240842	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/stm32f4xx_it.o	402c749c488a86cf
+3	427	7601989658240842	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Obj/Core_13247989168731456611.dir/main.o	f661df349034f59f
+430	541	7601989659401265	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.out	ea35573080fff655
+544	560	7601989659734379	C:/Users/TohidMoosazadeh/Documents/STM32_Workplace/7-SPI/SPI_Ex2/EWARM/SPI_Ex2/Exe/SPI_Ex2.hex	1f6a303adc7a6f83
